@@ -1,4 +1,4 @@
-The model implemented are VAE, beta-VAE, Conditional VAE. When calling Train.py, the informartion to insert are, respectively in order:
+The model implemented are VAE, beta-VAE, Conditional VAE. When calling VAE.py, the informartion to insert are, respectively in order:
 - Beta (scalar in front of KL loss), which represent shifting from a classical VAE to a Beta-VAE
 - Boolean value to set the VAE Conditional (True) or not (False)
 - Latent dimension Z
